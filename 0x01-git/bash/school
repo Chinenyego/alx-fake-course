@@ -1,9 +1,6 @@
 i
 #!/bin/bash
 School
-i
-#!/bin/bash
-School
-echo School > The school is open
-
-
+update_script
+The school is open
+main
